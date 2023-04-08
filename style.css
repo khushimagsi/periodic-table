@@ -1,0 +1,73 @@
+.main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.one {
+  color: brown;
+  font-size: medium;
+
+  text-align: center;
+}
+
+.two {
+  background-color: yellowgreen;
+  color: khaki;
+  border-radius: 2px solid;
+  font-size: medium;
+}
+
+.three {
+  background-color: goldenrod;
+  color: whitesmoke;
+  font-size: medium;
+}
+
+.four {
+  background-color: orange;
+  color: oldlace;
+  font-size: medium;
+}
+
+.five {
+  background-color: orange;
+  color: oldlace;
+  font-size: medium;
+}
+
+.six {
+  background-color: orange;
+  color: oldlace;
+  font-size: medium;
+}
+
+.seven {
+  background-color: orange;
+  color: oldlace;
+  font-size: medium;
+}
+
+.eight {
+  background-color: orange;
+  color: oldlace;
+  font-size: medium;
+}
+
+.nine {
+  background-color: orange;
+  color: oldlace;
+  font-size: medium;
+}
+
+td {
+  padding: 10px;
+  margin: 100px;
+  border: 1px solid white;
+  border: 1px solid rgb(38, 63, 58);
+}
+
+.red {
+  background-color: rgb(243, 80, 80);
+}
